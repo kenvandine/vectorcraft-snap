@@ -1,7 +1,7 @@
 name: vectorcraft
 title: VectorCraft
 base: core24
-version: '0.9.0'
+version: '0.9.1'
 summary: Vector illustration editor for SVG and PDF
 description: |
   VectorCraft is an open-source, native vector graphics editor for drawing and editing illustrations, SVG and PDF, with the tools and shortcuts Illustrator users already know.
