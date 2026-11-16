@@ -1,6 +1,6 @@
 name: vectorcraft
 title: VectorCraft
-base: core24
+base: core26
 version: '0.24.1'
 summary: Vector illustration editor for SVG and PDF
 description: |
